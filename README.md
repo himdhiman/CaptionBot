@@ -1,7 +1,7 @@
 # Caption Bot
 ## Image Captioning Using Attention based architecture
 
-![](Screenshot (783).png)
+![](1.png)
 	
-![](Screenshot (784).png)
+![](2.png)
 
