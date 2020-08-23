@@ -6,6 +6,6 @@
 	
 ![](2.png)
 
-![](loss_plot.png)
+![](loss_plot.PNG)
 
 
