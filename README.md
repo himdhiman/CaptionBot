@@ -10,5 +10,7 @@
 
 ![](attention_mechanism.jpg)
 
+![](attention_equation_0.jpg)
+
 
 
