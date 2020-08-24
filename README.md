@@ -8,4 +8,7 @@
 
 ![](loss_plot.PNG)
 
+![](attention_mechanism.jpg)
+
+
 
